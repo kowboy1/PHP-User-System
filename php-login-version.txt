@@ -1,0 +1,3 @@
+5.0.4;
+* Fix: Social login buttons were always enabled, now they are based on settings.
+* Fix: Pages appearing blank when config.php was missing.
